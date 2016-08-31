@@ -7,9 +7,9 @@
 ####Repository Content
 ---
 
-##Chapter 1
+##I. Exercises from the Book.
 
-#1.1.1 
+#Chapter 1 
 
 1. Sets.
 2. Numbers.
