@@ -1,5 +1,5 @@
- Exercises from "Programirane = ++Algoritmi", P. Nakov. P. Dobrikov
- ====
+Exercises from "Programirane = ++Algoritmi", P. Nakov. P. Dobrikov
+====
  
  
  
