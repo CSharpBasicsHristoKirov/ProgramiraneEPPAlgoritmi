@@ -21,7 +21,13 @@
 8. Fill matrix in spiral.
 9. Number of digits of product and natural number.
 10. Prime numbers and function phi(x).
-11. Write a program that checks the [Goldbach's conjecture hypothesis][https://en.wikipedia.org/wiki/Goldbach%27s_conjecture].
-12. Write a program the checks the [Oppermann's conjecture][Oppermann's conjecture].
+11. Write a program that checks the [Goldbach's conjecture hypothesis][1].
+12. Write a program the checks the [Oppermann's conjecture][2].
 
 
+
+---
+
+
+[1]:https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
+[2]:https://en.wikipedia.org/wiki/Oppermann%27s_conjecture
