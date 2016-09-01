@@ -20,6 +20,6 @@
 7. Fill matrix diagonal. 
 8. Fill matrix in spiral.
 9. Number of digits of product and natural number.
-10. $$\phi$$
+10. $$$\phi$$$
 
 
