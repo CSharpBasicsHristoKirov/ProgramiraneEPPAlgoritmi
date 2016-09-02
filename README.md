@@ -23,7 +23,8 @@
 10. Prime numbers and function phi(x).
 11. Write a program that checks the [Goldbach's conjecture][1] hypothesis.
 12. Write a program the checks the [Oppermann's conjecture][2] hypothesis.
-
+13. Write a program using [Wilson Theorem][3] as _Primality Test_.
+14. Write a program using previous already found primes for _Primality Test_.
 
 
 ---
@@ -31,3 +32,4 @@
 
 [1]:https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
 [2]:https://en.wikipedia.org/wiki/Oppermann%27s_conjecture
+[3]:https://en.wikipedia.org/wiki/Wilson%27s_theorem
