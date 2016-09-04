@@ -26,6 +26,7 @@
 13. Write a program using [Wilson Theorem][3] as _Primality Test_.
 14. Write a program using previous already found primes for _Primality Test_.
 15. Implement the _Sieve of Eratosthenes_, reimplement it optimized and compare with initial.
+16. Primes in interval [a, b].
 
 
 
