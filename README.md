@@ -27,6 +27,7 @@
 14. Write a program using previous already found primes for _Primality Test_.
 15. Implement the _Sieve of Eratosthenes_, reimplement it optimized and compare with initial.
 16. Primes in interval [a, b].
+17. Count trailing zeroes by factorizing to 2 and 5.
 
 
 
