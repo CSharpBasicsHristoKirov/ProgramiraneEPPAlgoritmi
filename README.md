@@ -28,6 +28,7 @@
 15. Implement the _Sieve of Eratosthenes_, reimplement it optimized and compare with initial.
 16. Primes in interval [a, b].
 17. Count trailing zeroes by factorizing to 2 and 5.
+18. Find the first n [Mersenne numbers][4], using [Lucas–Lehmer][5] primality test.
 
 
 
@@ -37,3 +38,5 @@
 [1]:https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
 [2]:https://en.wikipedia.org/wiki/Oppermann%27s_conjecture
 [3]:https://en.wikipedia.org/wiki/Wilson%27s_theorem
+[4]:https://en.wikipedia.org/wiki/Mersenne_prime
+[5]:https://en.wikipedia.org/wiki/Lucas%E2%80%93Lehmer_primality_test
