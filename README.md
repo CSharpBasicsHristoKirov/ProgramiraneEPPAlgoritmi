@@ -30,6 +30,7 @@
 17. Count trailing zeroes by factorizing to 2 and 5.
 18. Find the first n [Mersenne numbers][5], using [Lucas–Lehmer][6] primality test.
 19. Factorization, [Perfect Numbers][7] and sum of reciprocal factors.
+20. Binomial Coefficients and Pascal's Triangle.
 
 
 
