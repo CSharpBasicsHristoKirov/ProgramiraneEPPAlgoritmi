@@ -29,6 +29,7 @@
 16. Primes in interval [a, b].
 17. Count trailing zeroes by factorizing to 2 and 5.
 18. Find the first n [Mersenne numbers][5], using [Lucas–Lehmer][6] primality test.
+19. Factorization and [Perfect Numbers][7].
 
 
 
@@ -41,3 +42,4 @@
 [4]:https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 [5]:https://en.wikipedia.org/wiki/Mersenne_prime
 [6]:https://en.wikipedia.org/wiki/Lucas%E2%80%93Lehmer_primality_test
+[7]:https://en.wikipedia.org/wiki/Perfect_number
