@@ -29,7 +29,7 @@
 16. Primes in interval [a, b].
 17. Count trailing zeroes by factorizing to 2 and 5.
 18. Find the first n [Mersenne numbers][5], using [Lucas–Lehmer][6] primality test.
-19. Factorization and [Perfect Numbers][7].
+19. Factorization, [Perfect Numbers][7] and sum of reciprocal factors.
 
 
 
