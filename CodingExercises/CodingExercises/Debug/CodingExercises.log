@@ -1,2 +1,4 @@
-﻿  Chapter1Matrices.c
+﻿  Chapter1Factorization.c
+c:\users\chris\desktop\programiraneeppalgoritmi\codingexercises\codingexercises\chapter1helperarraydef.c(106): warning C4018: '<' : signed/unsigned mismatch
+c:\users\chris\desktop\programiraneeppalgoritmi\codingexercises\codingexercises\chapter1factorization.c(130): warning C4244: 'function' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
   CodingExercises.vcxproj -> C:\Users\Chris\Desktop\ProgramiraneEPPAlgoritmi\CodingExercises\Debug\CodingExercises.exe

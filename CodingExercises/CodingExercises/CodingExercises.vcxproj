@@ -72,7 +72,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter1Matrices.c" />
+    <ClInclude Include="Chapter1HelperArray.h" />
+    <ClInclude Include="Chapter1HelperPrime.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chapter1Factorization.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

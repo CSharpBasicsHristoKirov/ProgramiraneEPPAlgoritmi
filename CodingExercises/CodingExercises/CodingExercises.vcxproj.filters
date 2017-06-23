@@ -15,7 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter1Matrices.c">
+    <ClInclude Include="Chapter1HelperArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter1HelperPrime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chapter1Factorization.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
