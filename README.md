@@ -1,7 +1,5 @@
 <h1>Repository Content</h1>
  
-
-
 <h2>Chapter 1</h2>
 
 1. Sets.
@@ -9,7 +7,7 @@
 3. Integer division and remainder. Number of digits in _a_, _a_ from _Ν_.
 4. Sum and Product notations.
 5. Exponent, Logarithm and roots.
-6. Factorial. Recurent functions.
+6. Factorial. Recurrent functions.
 7. Fill matrix diagonal. 
 8. Fill matrix in spiral.
 9. Number of digits of product and natural number.
@@ -25,10 +23,7 @@
 19. Factorization, [Perfect Numbers][7] and sum of reciprocal factors.
 20. Binomial Coefficients and Pascal's Triangle.
 
-
-
 ---
-
 
 [1]:https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
 [2]:https://en.wikipedia.org/wiki/Oppermann%27s_conjecture
