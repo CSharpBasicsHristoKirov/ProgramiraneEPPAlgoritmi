@@ -1,15 +1,8 @@
-"Programirane = ++Algoritmi", P. Nakov. P. Dobrikov
-====
- 
- 
- 
- 
-####Repository Content
+<h1>Repository Content</h1>
 ---
 
-##I. Exercises from the Book.
 
-#Chapter 1 
+<h2>Chapter 1</h2>
 
 1. Sets.
 2. Numbers.
