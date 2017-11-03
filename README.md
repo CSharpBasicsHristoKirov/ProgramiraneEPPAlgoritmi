@@ -27,7 +27,7 @@
 14. Write a program using previous already found primes for _Primality Test_.
 15. Implement the [Sieve of Eratosthenes][4], reimplement it optimized and compare with initial.
 16. Primes in interval [a, b].
-17. Count trailing zeroes by factorizing to 2 and 5.
+17. Count trailing zeroes by factoring to 2 and 5.
 18. Find the first n [Mersenne numbers][5], using [Lucas–Lehmer][6] primality test.
 19. Factorization, [Perfect Numbers][7] and sum of reciprocal factors.
 20. Binomial Coefficients and Pascal's Triangle.
