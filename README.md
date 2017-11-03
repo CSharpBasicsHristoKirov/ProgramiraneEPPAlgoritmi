@@ -13,10 +13,10 @@
 
 1. Sets.
 2. Numbers.
-3. Integer division and remainder. Number of digits in _a_, _a_ от _Ν_.
+3. Integer division and remainder. Number of digits in _a_, _a_ from _Ν_.
 4. Sum and Product notations.
 5. Exponent, Logarithm and roots.
-6. Factoriel. Recurent functions.
+6. Factorial. Recurent functions.
 7. Fill matrix diagonal. 
 8. Fill matrix in spiral.
 9. Number of digits of product and natural number.
